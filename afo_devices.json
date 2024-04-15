@@ -1,0 +1,2512 @@
+{
+    "data": [
+        {
+            "name": "container",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000407",
+            "description": "A device that has the function to contain material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vessel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000407",
+            "description": "A device that has the function to contain material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000004",
+            "description": "A ion source is a device that has the function to produce or provide ions. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000004",
+            "description": "A ion source is a device that has the function to produce or provide ions. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "plumbing equipment",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "piping components",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "piping equipment",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "plumbing components",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tubing components",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tubing equipment",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000014",
+            "description": "Plumbing equipment are devices used as components of a plumbing system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "calorimeter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000023",
+            "description": "A piece of apparatus that is used to measure the heat of chemical reactions or physical changes. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measurement device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "instrument",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measuring apparatus",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measuring instrument",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measuring sensor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002145",
+            "description": "A device that measures some aspect of reality, such as a quality or the profile of a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gas chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000024",
+            "description": "A piece of apparatus, consisting of a gas supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "GC device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000024",
+            "description": "A piece of apparatus, consisting of a gas supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gas chromatography device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000024",
+            "description": "A piece of apparatus, consisting of a gas supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000392",
+            "description": "A piece of apparatus, consisting of a mobile phase supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "well plate",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000029",
+            "description": "A plate is a tray with multiple \"wells\" used as small test tubes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000029",
+            "description": "A plate is a tray with multiple \"wells\" used as small test tubes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "plate",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000029",
+            "description": "A plate is a tray with multiple \"wells\" used as small test tubes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "well block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000029",
+            "description": "A plate is a tray with multiple \"wells\" used as small test tubes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "plate",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002231",
+            "description": "A tray is a shallow, flat container. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tray",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002231",
+            "description": "A tray is a shallow, flat container. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass-to-charge analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000038",
+            "description": "A mass-to-charge analyzer is a separation device that separates ionized masses by their mass to charge ratio. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000038",
+            "description": "A mass-to-charge analyzer is a separation device that separates ionized masses by their mass to charge ratio. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "separation device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002157",
+            "description": "A device that has the function to separate materials. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "separating device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002157",
+            "description": "A device that has the function to separate materials. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "barcode reader",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000040",
+            "description": "A barcode reader (or barcode scanner) is an electronic device for reading printed barcodes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "barcode scanner",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000040",
+            "description": "A barcode reader (or barcode scanner) is an electronic device for reading printed barcodes. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "input device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002156",
+            "description": "A device that is used to provide data and control signals to an information processing system. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "anode",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000049",
+            "description": "The anode is the electrode that acts as positive pole if voltage is applied (place of oxidation). [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electrode",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000422",
+            "description": "An electrode is an electrically-conducting device that exchanges electrons with an electrolyte as part of an electrical circuit. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cathode",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000532",
+            "description": "The cathode is the electrode that acts as negative pole if voltage is applied (place of reduction). [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "autosampler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000073",
+            "description": "A piece of equipment that allows for automated sampling or sample loading. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "AS",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000073",
+            "description": "A piece of equipment that allows for automated sampling or sample loading. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "automated sampler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000073",
+            "description": "A piece of equipment that allows for automated sampling or sample loading. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "autosampler module",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000073",
+            "description": "A piece of equipment that allows for automated sampling or sample loading. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sampler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001711",
+            "description": "A sample is a device that function to sample known amounts of material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sampling unit",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001711",
+            "description": "A sample is a device that function to sample known amounts of material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "capillary column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000078",
+            "description": "A piece of apparatus that has the form of a tube with a diameter of less than a millimeter and hosts the stationary bed in chromatography. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chromatography column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000217",
+            "description": "A chromatography column is a type of column that contains a stationary phase for chromatographic separation of compounds. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000217",
+            "description": "A chromatography column is a type of column that contains a stationary phase for chromatographic separation of compounds. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electrochemical coulometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000085",
+            "description": "A piece of apparatus, consisting of an electrolytic cell, that is used to determine electric charge by measuring the amount of an element deposited or released at the cathode during a specified time. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "coulometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000855",
+            "description": "Any piece of apparatus used to measure electric charge. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "voltameter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000855",
+            "description": "Any piece of apparatus used to measure electric charge. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fraction collector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000088",
+            "description": "A fraction collector is a collecting device for recovering fractional volumes of the column effluent. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "collecting device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002172",
+            "description": "A collecting device is a device that has the function to collect things. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "diode array detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000090",
+            "description": "A piece of apparatus, consisting of a two-dimensional pattern of diodes and a prism, that is used to detect organic compounds. As the sample passes through a cell or cuvette it is illuminated with light in the region 190-1100 nm and any light transmitted through the sample is dispersed by the prism, so that light of different wavelengths falls on different diodes. The output from the array is used to construct an absorption spectrum that can be compared with standard spectra for identification purposes. Alternatively, a single diode can be used to monitor a specific wavelength at which there is maximum absorption. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "DAD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000090",
+            "description": "A piece of apparatus, consisting of a two-dimensional pattern of diodes and a prism, that is used to detect organic compounds. As the sample passes through a cell or cuvette it is illuminated with light in the region 190-1100 nm and any light transmitted through the sample is dispersed by the prism, so that light of different wavelengths falls on different diodes. The output from the array is used to construct an absorption spectrum that can be compared with standard spectra for identification purposes. Alternatively, a single diode can be used to monitor a specific wavelength at which there is maximum absorption. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "PDA",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000090",
+            "description": "A piece of apparatus, consisting of a two-dimensional pattern of diodes and a prism, that is used to detect organic compounds. As the sample passes through a cell or cuvette it is illuminated with light in the region 190-1100 nm and any light transmitted through the sample is dispersed by the prism, so that light of different wavelengths falls on different diodes. The output from the array is used to construct an absorption spectrum that can be compared with standard spectra for identification purposes. Alternatively, a single diode can be used to monitor a specific wavelength at which there is maximum absorption. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "PDAD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000090",
+            "description": "A piece of apparatus, consisting of a two-dimensional pattern of diodes and a prism, that is used to detect organic compounds. As the sample passes through a cell or cuvette it is illuminated with light in the region 190-1100 nm and any light transmitted through the sample is dispersed by the prism, so that light of different wavelengths falls on different diodes. The output from the array is used to construct an absorption spectrum that can be compared with standard spectra for identification purposes. Alternatively, a single diode can be used to monitor a specific wavelength at which there is maximum absorption. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "photodiode array detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000090",
+            "description": "A piece of apparatus, consisting of a two-dimensional pattern of diodes and a prism, that is used to detect organic compounds. As the sample passes through a cell or cuvette it is illuminated with light in the region 190-1100 nm and any light transmitted through the sample is dispersed by the prism, so that light of different wavelengths falls on different diodes. The output from the array is used to construct an absorption spectrum that can be compared with standard spectra for identification purposes. Alternatively, a single diode can be used to monitor a specific wavelength at which there is maximum absorption. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000317",
+            "description": "Any piece of apparatus used to detect an analyte. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electronic absorbance detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000734",
+            "description": "An electronic absorbance detector is a  detector that detects material by way of the electronic absorbance of a electromagnetic ray transmitted through the material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "liquid chromatography detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002200",
+            "description": "A liquid chromatography detector is a detector that is used in liquid chromatography as component of a LC system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "LC detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002200",
+            "description": "A liquid chromatography detector is a detector that is used in liquid chromatography as component of a LC system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electromagnetic radiation source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000097",
+            "description": "A source of a range of electromagnetic waves. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "EMR source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000097",
+            "description": "A source of a range of electromagnetic waves. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "light source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000097",
+            "description": "A source of a range of electromagnetic waves. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "radiation source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002250",
+            "description": "A radiation source is a device that produces radiation used in a process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Karl-Fischer coulometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000107",
+            "description": "A Karl-Fischer coulometer is a piece of apparatus, consisting of an electrolytic cell with an anodic compartment containing sulfur dioxide (SO2), iodide and a cathodic compartment containing the sample, which is used to determine trace amounts of water in a sample by measuring the time and current flow required to reach the titration end-point. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Karl Fischer coulometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000107",
+            "description": "A Karl-Fischer coulometer is a piece of apparatus, consisting of an electrolytic cell with an anodic compartment containing sulfur dioxide (SO2), iodide and a cathodic compartment containing the sample, which is used to determine trace amounts of water in a sample by measuring the time and current flow required to reach the titration end-point. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Karl Fischer coulometric titrator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000107",
+            "description": "A Karl-Fischer coulometer is a piece of apparatus, consisting of an electrolytic cell with an anodic compartment containing sulfur dioxide (SO2), iodide and a cathodic compartment containing the sample, which is used to determine trace amounts of water in a sample by measuring the time and current flow required to reach the titration end-point. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "porous-layer open-tubular column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000112",
+            "description": "An open-tubular column in which a porous layer, achieved by either etching a non-porous layer or by deposition of porous particles from a suspension, coats the inner wall and may serve as a support for a liquid stationary phase or as the stationary phase itself. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "PLOT column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000112",
+            "description": "An open-tubular column in which a porous layer, achieved by either etching a non-porous layer or by deposition of porous particles from a suspension, coats the inner wall and may serve as a support for a liquid stationary phase or as the stationary phase itself. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "open-tubular column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000691",
+            "description": "A chromatography column in which either the inner tube wall or a liquid or active solid held stationary on the tube wall acts as the stationary phase and there is an open, unrestricted path for the mobile phase. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "skimmer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000114",
+            "description": "A skimmer is a cone with a central orifice that intercepts the center of a spray or jet expansion to sample the central portion of the expansion, for example, as in a momentum separator. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion optics",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000753",
+            "description": "Devices designed to control the formation, focusing, and deflection of charged particle beams in a vacuum under the influence of electric and magnetic fields. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion guide",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000753",
+            "description": "Devices designed to control the formation, focusing, and deflection of charged particle beams in a vacuum under the influence of electric and magnetic fields. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "optical microscope",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000129",
+            "description": "An optical microscope is a microscope that is consisting of an eyepiece, an objective lens, object turret, stage, and light source, which collects electromagnetic radiation in the visible range. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "light microscope",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000129",
+            "description": "An optical microscope is a microscope that is consisting of an eyepiece, an objective lens, object turret, stage, and light source, which collects electromagnetic radiation in the visible range. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "microscope",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000825",
+            "description": "A microscope is a device which is used to visually magnify a specimen. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "optical device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001745",
+            "description": "An optical device is a device that creates, manipulates, or measures electromagnetic radiation. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "analytical column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000135",
+            "description": "A chromatography column used for analysis. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "overhead stirrer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000139",
+            "description": "An overhead stirrer is a stirrer that is made up of a stirring rod with a paddle, anchor or propeller end that is driven by an overhead motor on a stand. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "stirring rod",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000139",
+            "description": "An overhead stirrer is a stirrer that is made up of a stirring rod with a paddle, anchor or propeller end that is driven by an overhead motor on a stand. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "stirrer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000812",
+            "description": "A stirrer is a mixing device used for stirring something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "agitator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000812",
+            "description": "A stirrer is a mixing device used for stirring something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mixer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000812",
+            "description": "A stirrer is a mixing device used for stirring something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "channel (communication)",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000145",
+            "description": "A communication channel or channel, refers either to a physical transmission medium such as a wire, or to a logical connection over a multiplexed medium such as a radio channel. A channel is used to convey an information signal, for example a digital bit stream, from one or several senders (or transmitters) to one or several receivers. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "channel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000145",
+            "description": "A communication channel or channel, refers either to a physical transmission medium such as a wire, or to a logical connection over a multiplexed medium such as a radio channel. A channel is used to convey an information signal, for example a digital bit stream, from one or several senders (or transmitters) to one or several receivers. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "communication channel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000145",
+            "description": "A communication channel or channel, refers either to a physical transmission medium such as a wire, or to a logical connection over a multiplexed medium such as a radio channel. A channel is used to convey an information signal, for example a digital bit stream, from one or several senders (or transmitters) to one or several receivers. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "communication device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002235",
+            "description": "A communication device is a device that has the function to communicate (transport information). [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "reactor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000153",
+            "description": "A reactor is a container for controlling a biological or chemical reaction or process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "open chromatographic bed",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000158",
+            "description": "A piece of apparatus that is planar and is or hosts the stationary bed in chromatography. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gas chromatograph inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "GC injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "GC inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "column injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "column inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gas chromatograph injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000161",
+            "description": "An inlet into a gas chromatograph. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "injection device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000266",
+            "description": "A device that introduces objects into the inside of another object. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000266",
+            "description": "A device that introduces objects into the inside of another object. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultra high-performance liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "RRLC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "RSLC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UFLC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UHPLC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UPLC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "rapid resolution liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "rapid separation liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultra fast liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultra performance liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000171",
+            "description": "Liquid chromatograph that implements the ultra high-performance liquid chromatography. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "high-performance liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000224",
+            "description": "A high-performance liquid chromatograph is an instrument used for HPLC that is a technique in analytical chemistry used to separate the components in a mixture, to identify each component, and to quantify each component. It has pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material. Each component in the sample interacts slightly differently with the adsorbent material, causing different flow rates for the different components and leading to the separation of the components as they flow out the column. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "HPLC system",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000224",
+            "description": "A high-performance liquid chromatograph is an instrument used for HPLC that is a technique in analytical chemistry used to separate the components in a mixture, to identify each component, and to quantify each component. It has pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material. Each component in the sample interacts slightly differently with the adsorbent material, causing different flow rates for the different components and leading to the separation of the components as they flow out the column. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "high-performance liquid chromatography system",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000224",
+            "description": "A high-performance liquid chromatograph is an instrument used for HPLC that is a technique in analytical chemistry used to separate the components in a mixture, to identify each component, and to quantify each component. It has pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material. Each component in the sample interacts slightly differently with the adsorbent material, causing different flow rates for the different components and leading to the separation of the components as they flow out the column. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000185",
+            "description": "A spectrophotometer is a photometer that measures the intensity of light at each individual wavelength. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "photometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001515",
+            "description": "A photometer, generally, is an instrument that measures light intensity or optical properties of solutions or surfaces. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "stir bar",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000199",
+            "description": "A stir bar is a small magnetic bar used in a magnetic stirrer. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "magnetic stirrer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000374",
+            "description": "A magnetic stirrer or magnetic mixer is a laboratory device that employs a rotating magnetic field to cause a stir bar (also called \"flea\") immersed in a liquid to spin very quickly, thus stirring it. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "analytical balance",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000201",
+            "description": "An analytical balance has a capacity of 50 - 200 g with a precision of 0.01 - 0.05 mg. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "balance",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000693",
+            "description": "A balance is a weighing device, intended predominantly for medium to low capacity weighments, with moderate to high resolutions, mostly used indoors. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "flame ionization detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000209",
+            "description": "A flame ionization detector is a measurement component that measures an analyte in a gas stream through the measurement of ions created via flame ionization. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "FID",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000209",
+            "description": "A flame ionization detector is a measurement component that measures an analyte in a gas stream through the measurement of ions created via flame ionization. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measurement component",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002185",
+            "description": "A measurement component is a component of a measuring system, that does measuring. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "measurement module",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002185",
+            "description": "A measurement component is a component of a measuring system, that does measuring. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gas chromatography detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002188",
+            "description": "A gas chromatography detector is a detector that is used in gas chromatography as component of a GC system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "GC detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002188",
+            "description": "A gas chromatography detector is a detector that is used in gas chromatography as component of a GC system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electron ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000223",
+            "description": "An electron ionization source is an ion source that consists of an ionization chamber and a thin strip of metal that is heated electrically to incandescence or a temperature at which it emits free electrons that are accelerated through a potential to an energy where they ionize the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "EI source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000223",
+            "description": "An electron ionization source is an ion source that consists of an ionization chamber and a thin strip of metal that is heated electrically to incandescence or a temperature at which it emits free electrons that are accelerated through a potential to an energy where they ionize the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electron impact source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000223",
+            "description": "An electron ionization source is an ion source that consists of an ionization chamber and a thin strip of metal that is heated electrically to incandescence or a temperature at which it emits free electrons that are accelerated through a potential to an energy where they ionize the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000808",
+            "description": "A liquid chromatograph is a system used to perform bioseparation techniques that are based on interactions of the sample with the mobile and stationary phases. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "LC device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000808",
+            "description": "A liquid chromatograph is a system used to perform bioseparation techniques that are based on interactions of the sample with the mobile and stationary phases. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "liquid chromatography device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000808",
+            "description": "A liquid chromatograph is a system used to perform bioseparation techniques that are based on interactions of the sample with the mobile and stationary phases. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "low pressure liquid chromatography device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000808",
+            "description": "A liquid chromatograph is a system used to perform bioseparation techniques that are based on interactions of the sample with the mobile and stationary phases. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "high-performance liquid chromatography column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000231",
+            "description": "A chromatography column that contains very small particles and is capable of taking a high inlet pressure. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "HPLC column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000231",
+            "description": "A chromatography column that contains very small particles and is capable of taking a high inlet pressure. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chromatographic detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000246",
+            "description": "A chromatography detector is a detector that is used in chromatography as component of a chromatography system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "weighing device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000252",
+            "description": "A weighing device is a measurement device for measuring mass by the gravitational force on earth. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "weighing instrument",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000252",
+            "description": "A weighing device is a measurement device for measuring mass by the gravitational force on earth. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "transferring device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002168",
+            "description": "A transferring device is a device that is designed to transfer material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "strong anion-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000277",
+            "description": "A chromatography column where the stationary phase is a strong anion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SAX column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000277",
+            "description": "A chromatography column where the stationary phase is a strong anion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "anion-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000550",
+            "description": "A chromatography column where the stationary phase is an anion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "homogenizer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000299",
+            "description": "A homogenizer is a device used for homogenization of various types of material. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "shaping device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002228",
+            "description": "A shaping device is a conversion device that alters the shape of some material. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "weak anion-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000301",
+            "description": "A chromatography column where the stationary phase is a weak anion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "WAX column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000301",
+            "description": "A chromatography column where the stationary phase is a weak anion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "support-coated open-tubular column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000307",
+            "description": "An open-tubular column in which a layer of porous particles deposited from a suspension coats the inner wall and serves as a support for a liquid stationary phase. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SCOT column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000307",
+            "description": "An open-tubular column in which a layer of porous particles deposited from a suspension coats the inner wall and serves as a support for a liquid stationary phase. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "thermal conductivity detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000316",
+            "description": "A thermal conductivity detector is a measurement component that measures changes in the thermal conductivity of the column effluent and compares it to a reference flow of carrier gas. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "TCD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000316",
+            "description": "A thermal conductivity detector is a measurement component that measures changes in the thermal conductivity of the column effluent and compares it to a reference flow of carrier gas. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "observation device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002242",
+            "description": "An observation device is a device that has the function to observe something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "pressure sensor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000327",
+            "description": "A sensor that measures the pressure. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sensor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002184",
+            "description": "A sensor is a component of a measuring system that is directly affected by a phenomenon, body, or substance carrying a quantity to be measured. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vial",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000329",
+            "description": "A vial is a small vessel or bottle. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "flacon",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000329",
+            "description": "A vial is a small vessel or bottle. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "phial",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000329",
+            "description": "A vial is a small vessel or bottle. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "reaction vial",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000329",
+            "description": "A vial is a small vessel or bottle. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "capillary",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000340",
+            "description": "A capillary is a tube with a small diameter. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tube",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000718",
+            "description": "A tube, or tubing, is a long hollow cylinder used for moving fluids (liquids or gases) or to protect electrical or optical cables and wires. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tubing",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000718",
+            "description": "A tube, or tubing, is a long hollow cylinder used for moving fluids (liquids or gases) or to protect electrical or optical cables and wires. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "temperature controlled chamber",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000350",
+            "description": "A temperature controlled chamber is a chamber or enclosed space in which a temperature can be controlled and set to a specific value. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "temp controlled chamber",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000350",
+            "description": "A temperature controlled chamber is a chamber or enclosed space in which a temperature can be controlled and set to a specific value. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "strong cation-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000360",
+            "description": "A chromatography column where the stationary phase is a strong cation exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SCX column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000360",
+            "description": "A chromatography column where the stationary phase is a strong cation exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cation-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000523",
+            "description": "A chromatography column where the stationary phase is a cation exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "refractive index detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000363",
+            "description": "A piece of apparatus, consisting of a light source, a hollow prism and a photoelectric cell that is used to detect non-ultraviolet-absorbing molecules in a sample separated by chromatography. Light from the sample passes through a flow cell with two channels towards the photoelectric cell. One channel holds the eluent from the column, whereas the other holds a control sample (solvent that has not passed through the column).  Detection occurs when the light is bent due to molecules eluting from the column, and this is read as a disparity between the two channels. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "RI detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000363",
+            "description": "A piece of apparatus, consisting of a light source, a hollow prism and a photoelectric cell that is used to detect non-ultraviolet-absorbing molecules in a sample separated by chromatography. Light from the sample passes through a flow cell with two channels towards the photoelectric cell. One channel holds the eluent from the column, whereas the other holds a control sample (solvent that has not passed through the column).  Detection occurs when the light is bent due to molecules eluting from the column, and this is read as a disparity between the two channels. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "refractive-index detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000363",
+            "description": "A piece of apparatus, consisting of a light source, a hollow prism and a photoelectric cell that is used to detect non-ultraviolet-absorbing molecules in a sample separated by chromatography. Light from the sample passes through a flow cell with two channels towards the photoelectric cell. One channel holds the eluent from the column, whereas the other holds a control sample (solvent that has not passed through the column).  Detection occurs when the light is bent due to molecules eluting from the column, and this is read as a disparity between the two channels. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electrolytic conductivity detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000368",
+            "description": "A conductivity probe to calculate the conductance value of a material at the selected reference temperature. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ECD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000368",
+            "description": "A conductivity probe to calculate the conductance value of a material at the selected reference temperature. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Hall electrolytic conductivity detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000368",
+            "description": "A conductivity probe to calculate the conductance value of a material at the selected reference temperature. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chemical ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000370",
+            "description": "A chemical ionization source is an ion source that consists of a high-pressure ionization chamber containing a reagent gas (for example N2, O2 or H2O) which is ionized by high-energy electrons from a heated strip of metal and goes on to react with the analyte to ionize it. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "CI source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000370",
+            "description": "A chemical ionization source is an ion source that consists of a high-pressure ionization chamber containing a reagent gas (for example N2, O2 or H2O) which is ionized by high-energy electrons from a heated strip of metal and goes on to react with the analyte to ionize it. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "reservoir",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000378",
+            "description": "The reservoir is a container that stores solutions. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "thermometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000410",
+            "description": "A thermometer is a device that measures temperature or a temperature gradient. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet-visible spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-VIS absorption spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-VIS spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-VIS spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-Vis molecular absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-Vis spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-vis absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-vis absorption spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-vis spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-vis spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-visible spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/VIS absorption spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/VIS spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/VIS spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/Vis absorption spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/Vis spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/Vis spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "absorption spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electronic absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "molecular electronic absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultra-violet-visible spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet-visible spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000421",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to visible (190--800 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "guard column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000430",
+            "description": "A short protective chromatography column used to protect the main analytical column from damaging impurities that are injected into the instrument. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gel filtration chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000431",
+            "description": "A piece of apparatus, consisting of an eluent supply system, an injection or sampling system, a column containing a swollen gel, a detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "GPC",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000431",
+            "description": "A piece of apparatus, consisting of an eluent supply system, an injection or sampling system, a column containing a swollen gel, a detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gel permeation chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000431",
+            "description": "A piece of apparatus, consisting of an eluent supply system, an injection or sampling system, a column containing a swollen gel, a detector and a data acquisition/processing system, that is used to carry out chromatographic separations. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "optical spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000466",
+            "description": "A piece of apparatus used to measure a spectrum by illumination with light. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000857",
+            "description": "A piece of apparatus used to measure a spectrum. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spectrograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000857",
+            "description": "A piece of apparatus used to measure a spectrum. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spectroscope",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000857",
+            "description": "A piece of apparatus used to measure a spectrum. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "damper",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000471",
+            "description": "A damper is an inhibition device that deadens, restrains, or depresses. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "inhibition device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002254",
+            "description": "An inhibition device is a device that has the function to inhibit flows (material, energy, information). A part of the flow is passing through the device. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "inhibitor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002254",
+            "description": "An inhibition device is a device that has the function to inhibit flows (material, energy, information). A part of the flow is passing through the device. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "pump",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000499",
+            "description": "A pump is a device that is used to pump. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000803",
+            "description": "A chromatography column where the stationary phase is an ion exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell counter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell counter analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell counter device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell counter instrument",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell density module",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell viability module",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "off-line analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000524",
+            "description": "A device used to count the number of cells present in known volume of sample to determine the overall concentration cells per unit volume. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quadrupole mass spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000527",
+            "description": "A piece of apparatus that consists of an ion source, a mass-to-charge analyzer, a detector and a vacuum system and is used to measure mass spectra. The detector is a quadrupole mass-to-charge analyzer, which holds the ions in a stable orbit by an electric field generated by four parallel electrodes. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "QMS",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000527",
+            "description": "A piece of apparatus that consists of an ion source, a mass-to-charge analyzer, a detector and a vacuum system and is used to measure mass spectra. The detector is a quadrupole mass-to-charge analyzer, which holds the ions in a stable orbit by an electric field generated by four parallel electrodes. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quad-MS",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000527",
+            "description": "A piece of apparatus that consists of an ion source, a mass-to-charge analyzer, a detector and a vacuum system and is used to measure mass spectra. The detector is a quadrupole mass-to-charge analyzer, which holds the ions in a stable orbit by an electric field generated by four parallel electrodes. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000648",
+            "description": "A mass spectrometer is a measurement device that measures the m/z values and abundances of gas-phase ions. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "temperature controller",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000528",
+            "description": "A device used to control the temperature in a compartment. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "temperature control",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000528",
+            "description": "A device used to control the temperature in a compartment. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "temperature control device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000528",
+            "description": "A device used to control the temperature in a compartment. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "thermostat",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000528",
+            "description": "A device used to control the temperature in a compartment. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "controller",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002148",
+            "description": "A device that has the function to control some quality or process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "regulator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002148",
+            "description": "A device that has the function to control some quality or process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ECD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000534",
+            "description": "An electron capture detector is a measurement component that measures an analyte in a gas stream through the attachment of electrons via electron capture ionization. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "electron capture detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000534",
+            "description": "An electron capture detector is a measurement component that measures an analyte in a gas stream through the attachment of electrons via electron capture ionization. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vial rack",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000540",
+            "description": "A vial rack is a tray capable of holding multiple vials within a defined layout. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tray",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000540",
+            "description": "A vial rack is a tray capable of holding multiple vials within a defined layout. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vial plate",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000540",
+            "description": "A vial rack is a tray capable of holding multiple vials within a defined layout. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vial tray",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000540",
+            "description": "A vial rack is a tray capable of holding multiple vials within a defined layout. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "vial container",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002278",
+            "description": "A vial container is a container that has the function to contain vials. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Paul ion trap",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000541",
+            "description": "Ion trapping device that depends on the application of radio frequency potentials between a ring electrode and two end-cap electrodes to confine the ion motion to a cyclic path described by an appropriate form of the Mathieu equation. The choice of these potentials determines the m/z value below which ions are not trapped. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "QIT",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000541",
+            "description": "Ion trapping device that depends on the application of radio frequency potentials between a ring electrode and two end-cap electrodes to confine the ion motion to a cyclic path described by an appropriate form of the Mathieu equation. The choice of these potentials determines the m/z value below which ions are not trapped. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "QUISTOR",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000541",
+            "description": "Ion trapping device that depends on the application of radio frequency potentials between a ring electrode and two end-cap electrodes to confine the ion motion to a cyclic path described by an appropriate form of the Mathieu equation. The choice of these potentials determines the m/z value below which ions are not trapped. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quadrupole ion storage trap",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000541",
+            "description": "Ion trapping device that depends on the application of radio frequency potentials between a ring electrode and two end-cap electrodes to confine the ion motion to a cyclic path described by an appropriate form of the Mathieu equation. The choice of these potentials determines the m/z value below which ions are not trapped. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quadrupole ion trap",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000541",
+            "description": "Ion trapping device that depends on the application of radio frequency potentials between a ring electrode and two end-cap electrodes to confine the ion motion to a cyclic path described by an appropriate form of the Mathieu equation. The choice of these potentials determines the m/z value below which ions are not trapped. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion trap",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000625",
+            "description": "A ion trap is a device for spatially confining ions using electric and magnetic fields alone or in combination. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "IT",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000625",
+            "description": "A ion trap is a device for spatially confining ions using electric and magnetic fields alone or in combination. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "LCQ",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000625",
+            "description": "A ion trap is a device for spatially confining ions using electric and magnetic fields alone or in combination. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "LTQ",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000625",
+            "description": "A ion trap is a device for spatially confining ions using electric and magnetic fields alone or in combination. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Raman spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000551",
+            "description": "A Raman spectrometer is a piece of apparatus that allows for the measurement of Raman spectra. It consists of a laser and a detector. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000554",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the ultraviolet range (190-400 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000554",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the ultraviolet range (190-400 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000554",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the ultraviolet range (190-400 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultra-violet spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000554",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the ultraviolet range (190-400 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet spectrometry",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000554",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the ultraviolet range (190-400 nm). [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "data acquisition device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000555",
+            "description": "A device to acquire signals or data. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "splitter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000558",
+            "description": "A device used to split a fluid into two component streams. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "distribution device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002193",
+            "description": "A distribution device is a device with the function to distribute a stream into multiple parts. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fluorescence detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000567",
+            "description": "A fluorescence detector is a detector that detects material by way of the measurement of the emitted fluorescence light after excitation with light. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "FLD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000567",
+            "description": "A fluorescence detector is a detector that detects material by way of the measurement of the emitted fluorescence light after excitation with light. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "blood gas analyzer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000574",
+            "description": "A blood gas analyzer is a device that is used for blood gas measurement. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "capillary electrophoresis column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000579",
+            "description": "A capillary electrophoresis column is a type of column that is used in capillary electrophoresis. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "degasser",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000587",
+            "description": "A degasser is a device to remove gasses from a fluid which could otherwise form bubbles. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000642",
+            "description": "A piece of apparatus that produces an output that depends on the number of ions that it encounters. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ion collector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000642",
+            "description": "A piece of apparatus that produces an output that depends on the number of ions that it encounters. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "supercritical-fluid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000673",
+            "description": "A piece of apparatus, consisting of a mobile phase supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations where the mobile phase is a fluid above and relatively close to its critical temperature and pressure. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SFC device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000673",
+            "description": "A piece of apparatus, consisting of a mobile phase supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations where the mobile phase is a fluid above and relatively close to its critical temperature and pressure. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "supercritical-fluid chromatography device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000673",
+            "description": "A piece of apparatus, consisting of a mobile phase supply system, an injection or sampling system, a column, detector and a data acquisition/processing system, that is used to carry out chromatographic separations where the mobile phase is a fluid above and relatively close to its critical temperature and pressure. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "packed column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000692",
+            "description": "A chromatography column that contains a solid packing. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000711",
+            "description": "A piece of apparatus, consisting of a light source, a photoelectric cell, a diffraction grating or monochromator to separate the different wavelengths of light, which is used to detect the absorbance of ultraviolet (190-400 nm) light by molecules in a sample separated by chromatography. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000711",
+            "description": "A piece of apparatus, consisting of a light source, a photoelectric cell, a diffraction grating or monochromator to separate the different wavelengths of light, which is used to detect the absorbance of ultraviolet (190-400 nm) light by molecules in a sample separated by chromatography. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "differential scanning calorimeter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000733",
+            "description": "A device that is used to measure the heat of chemical reactions or physical changes for both a sample and a reference. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "array column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000742",
+            "description": "An array column is a column that contains multiple columns at the same time. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "syringe",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000746",
+            "description": "A syringe is an injection device that is a simple pump consisting of a plunger that fits tightly in a tube. The plunger can be pulled and pushed along inside a cylindrical tube (called a barrel), allowing the syringe to take in and expel a liquid or gas through an orifice at the open end of the tube. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "splitless inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000755",
+            "description": "A splitless inlet is a gas chromatograph inlet enabling the carrier gas to sweep the volatilized sample onto the GC column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SL",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000755",
+            "description": "A splitless inlet is a gas chromatograph inlet enabling the carrier gas to sweep the volatilized sample onto the GC column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "splitless",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000755",
+            "description": "A splitless inlet is a gas chromatograph inlet enabling the carrier gas to sweep the volatilized sample onto the GC column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "splitless injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000755",
+            "description": "A splitless inlet is a gas chromatograph inlet enabling the carrier gas to sweep the volatilized sample onto the GC column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "display",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000761",
+            "description": "A display is a device or element of an instrument serving to represent information. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "display device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000761",
+            "description": "A display is a device or element of an instrument serving to represent information. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "weak cation-exchange column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000775",
+            "description": "A chromatography column where the stationary phase is a weak cation exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "WCX column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000775",
+            "description": "A chromatography column where the stationary phase is a weak cation exchanger. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "single quadrupole mass spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000776",
+            "description": "A single quadrupole mass spectrometer is a type of quadrupole mass spectrometer that uses one single quadrupole field. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SQD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000776",
+            "description": "A single quadrupole mass spectrometer is a type of quadrupole mass spectrometer that uses one single quadrupole field. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "single quadrupole",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000776",
+            "description": "A single quadrupole mass spectrometer is a type of quadrupole mass spectrometer that uses one single quadrupole field. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "wall-coated open-tubular column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000779",
+            "description": "An open-tubular column in which the liquid stationary phase is coated on the unmodified smooth inner wall of the tube. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "WCOT column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000779",
+            "description": "An open-tubular column in which the liquid stationary phase is coated on the unmodified smooth inner wall of the tube. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cooling device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000785",
+            "description": "A kind of heat exchanger or radiator designed to remove excess heat. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chiller",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000785",
+            "description": "A kind of heat exchanger or radiator designed to remove excess heat. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cooler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000785",
+            "description": "A kind of heat exchanger or radiator designed to remove excess heat. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "valve",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000795",
+            "description": "A valve is a plumbing equipment that regulates, directs or controls the flow of a fluid (gases, liquids, fluidized solids, or slurries) by opening, closing, or partially obstructing various passageways. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet-visible-near infrared spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-VIS-NIR spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-Vis-NIR absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-Vis-NIR spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-Vis-NIR spectrophotometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-vis-NIR absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-visible-near IR absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV-visible-near IR spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ultraviolet-visible-near infrared absorption spectrometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000800",
+            "description": "A piece of apparatus that consists of: a light source; a holder for the sample; a diffraction grating or monochromator to separate the different wavelengths of light; a detector, and is used to measure spectra in the range ultraviolet to near-infrared (190--2000 nm) resulting in electronic transitions within the sample. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "split inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000811",
+            "description": "A split inlet is a gas chromatograph inlet followed by a splitter enabling the carrier gas to sweep a part of volatilized sample onto the GC column, with that remaining split/swept to waste. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "S",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000811",
+            "description": "A split inlet is a gas chromatograph inlet followed by a splitter enabling the carrier gas to sweep a part of volatilized sample onto the GC column, with that remaining split/swept to waste. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "split",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000811",
+            "description": "A split inlet is a gas chromatograph inlet followed by a splitter enabling the carrier gas to sweep a part of volatilized sample onto the GC column, with that remaining split/swept to waste. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "split injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000811",
+            "description": "A split inlet is a gas chromatograph inlet followed by a splitter enabling the carrier gas to sweep a part of volatilized sample onto the GC column, with that remaining split/swept to waste. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "agitator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001265",
+            "description": "An agitator is a device or mechanism to put something into motion. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mixer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001266",
+            "description": "A mixer is a device used for mixing. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mixing device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001266",
+            "description": "A mixer is a device used for mixing. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "oven",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000816",
+            "description": "An oven is a device for heating an enclosed space. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "furnace",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000816",
+            "description": "An oven is a device for heating an enclosed space. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heater",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000816",
+            "description": "An oven is a device for heating an enclosed space. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heater",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001128",
+            "description": "A device used for heating something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heating device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001128",
+            "description": "A device used for heating something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heating equipment",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001128",
+            "description": "A device used for heating something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "channel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000828",
+            "description": "A solvent channel is a channel where a liquid can flow through. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "solvent channel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000828",
+            "description": "A solvent channel is a channel where a liquid can flow through. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "line",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000828",
+            "description": "A solvent channel is a channel where a liquid can flow through. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "coupling device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002151",
+            "description": "A device that has the function to couple things. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "coupler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002151",
+            "description": "A device that has the function to couple things. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "titrator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000876",
+            "description": "A titrator is a device that automates titrations. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "automatic burette",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000876",
+            "description": "A titrator is a device that automates titrations. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "slit",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0000986",
+            "description": "A long narrow cut or opening. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quadrupole",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001045",
+            "description": "A quadrupole is a mass-to-charge analyzer that holds the ions in a stable orbit by an electric field generated by four parallel electrodes. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "quadripole",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001045",
+            "description": "A quadrupole is a mass-to-charge analyzer that holds the ions in a stable orbit by an electric field generated by four parallel electrodes. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "bath",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001121",
+            "description": "A vessel used for regulating the temperature of something placed within it. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "connecting device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002227",
+            "description": "A connecting device is a device that has the function to connect things. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "jar",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001410",
+            "description": "Jars are cylindrical containers with wide openings that may be sealed. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "controlled lab reactor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001519",
+            "description": "A controlled lab reactor is a reactor that maintains temperature and other reaction parameters and has measuring devices. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "CLR",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001519",
+            "description": "A controlled lab reactor is a reactor that maintains temperature and other reaction parameters and has measuring devices. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "controlled laboratory reactor",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001519",
+            "description": "A controlled lab reactor is a reactor that maintains temperature and other reaction parameters and has measuring devices. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "differential scanning calorimetry pan",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001622",
+            "description": "A differential scanning calorimetry pan is a pan for use in a differential scanning calorimeter that contains the sample under investigation. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "pan",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001623",
+            "description": "A pan is a flat container. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass flow controller",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001671",
+            "description": "A mass flow controller is a device that determines the mixture of different materials. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "computer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001695",
+            "description": "A computer is a general-purpose device that can be programmed to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "desktop computer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001695",
+            "description": "A computer is a general-purpose device that can be programmed to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "pressure regulator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001703",
+            "description": "A pressure regulator is a controller that regulates a set pressure in a system. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tablet press",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001718",
+            "description": "A tablet press is a mechanical device that compresses powder into tablets of uniform size and weight. To form a tablet, the granulated material must be metered into a cavity formed by two punches and a die, and then the punches must be pressed together to a set separation distance to allow the powder / granule to transform into a solid compact through compression. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "compression device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002256",
+            "description": "A compression device is a device that is designed to compress to volume of material by applying force. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "cell holder",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001747",
+            "description": "A cell holder is a type of container for samples in spectrophotometers. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "excimer lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001754",
+            "description": "An excimer lamp is a light source of ultraviolet light produced by spontaneous emission of excimer (exciplex) molecules. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV/VIS lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001754",
+            "description": "An excimer lamp is a light source of ultraviolet light produced by spontaneous emission of excimer (exciplex) molecules. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "excilamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001754",
+            "description": "An excimer lamp is a light source of ultraviolet light produced by spontaneous emission of excimer (exciplex) molecules. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "UV lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001755",
+            "description": "A UV lamp is a light source with an ultraviolet wavelength range of 190 to 380 nm. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001875",
+            "description": "A lamp is an electromagnetic radiation source of incoherent radiation. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "tubing connector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001761",
+            "description": "A tubing connector is a part used to connect/install tubing, components, and accessories as part of a system flow path configuration. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "connector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001761",
+            "description": "A tubing connector is a part used to connect/install tubing, components, and accessories as part of a system flow path configuration. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spin column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001763",
+            "description": "A spin column is a column used for concentration of biological samples containing membranes for ultrafiltration. The solid phase is made up of silica to which the biological sample binds. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "spin concentrator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001763",
+            "description": "A spin column is a column used for concentration of biological samples containing membranes for ultrafiltration. The solid phase is made up of silica to which the biological sample binds. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "visible lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001771",
+            "description": "A visible lamp is a light source with a visible wavelength range of 380 to 780 nm. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "deuterium lamp",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001772",
+            "description": "A deuterium lamp is a low-pressure gas-discharge light source that emits light with a continuous spectrum mainly in the ultraviolet region. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fibrette",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001774",
+            "description": "The fibrette is a fiber optics device that consists of a thin fiber and defines the point where a beam of light is emitted into a sample. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fibrette coupler",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001775",
+            "description": "A fibrette coupler connects a fibrette to a UV spectrophotometer and allows for precise adjustment of the path length. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "bypass injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001797",
+            "description": "A device in which the sample is first introduced into a chamber (loop), temporarily isolated from the mobile phase system by valves, which can be switched to make an instantaneous diversion of the mobile phase stream through the chamber to carry the sample to the column. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sampling valve",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001797",
+            "description": "A device in which the sample is first introduced into a chamber (loop), temporarily isolated from the mobile phase system by valves, which can be switched to make an instantaneous diversion of the mobile phase stream through the chamber to carry the sample to the column. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "valve injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001797",
+            "description": "A device in which the sample is first introduced into a chamber (loop), temporarily isolated from the mobile phase system by valves, which can be switched to make an instantaneous diversion of the mobile phase stream through the chamber to carry the sample to the column. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "direct injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001798",
+            "description": "A device which directly introduces the sample into the mobile-phase stream. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "on-column injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001799",
+            "description": "A device which directly introduces the sample into the mobile-phase stream. [IUPAC]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "diode",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0001860",
+            "description": "In electronics, a diode is a two-terminal electronic component that conducts primarily in one direction (asymmetric conductance). [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "needle",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002102",
+            "description": "A needle is a device consisting of a very thin, hollow tube with a sharp tip which contains a small opening at the pointed end. It is commonly used with a syringe. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "injection device component",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002186",
+            "description": "An injection device  component is a component of an injection device. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "separation column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002165",
+            "description": "A separation column is a separation device of columnar shape where the separation occurs inside the column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "guiding device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002189",
+            "description": "A guiding device is a device that has the function to direct a flow in a specific direction. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "split/splitless inlet",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002194",
+            "description": "A split/splitless inlet is a gas chromatograph inlet that supports both split and splitless injection modes. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "packed injector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002201",
+            "description": "A packed injector is a GC injector device in which the entire sample aliquot is vaporized and directly introduced onto the column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "monolithic column",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002202",
+            "description": "A monolithic columns is a chromatography column where the stationary phase synthesized in place as a single lattice structure in the column. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "clock",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002204",
+            "description": "A clock is a measurement device used to measure, keep, and indicate time. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "chronometer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002204",
+            "description": "A clock is a measurement device used to measure, keep, and indicate time. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "bench",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002206",
+            "description": "A bench is a large table in a workspace or laboratory. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "workbench",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002206",
+            "description": "A bench is a large table in a workspace or laboratory. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "table",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002210",
+            "description": "A table is a placement device with a flat top and one or more legs, providing a level surface for placement. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "placement device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002209",
+            "description": "A placement device is a device that is used to hold or place a material in a defined location. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "multimeter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002211",
+            "description": "A multimeter is an instrument designed to measure electric current, voltage, and usually resistance, typically over several ranges of value. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "frequency synthesizer",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002212",
+            "description": "A frequency generator is an electrical device which creates a signal at a predetermined frequency. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "frequency generator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002212",
+            "description": "A frequency generator is an electrical device which creates a signal at a predetermined frequency. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass spectrometer ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002215",
+            "description": "A mass spectrometer ionization source is a piece of apparatus that takes an analyte and generates ions which are passed to the rest of a mass spectrometer for analysis. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "MS ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002215",
+            "description": "A mass spectrometer ionization source is a piece of apparatus that takes an analyte and generates ions which are passed to the rest of a mass spectrometer for analysis. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "mass spectrometry ionization source",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002215",
+            "description": "A mass spectrometer ionization source is a piece of apparatus that takes an analyte and generates ions which are passed to the rest of a mass spectrometer for analysis. [CHMO]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "filament (ms)",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002217",
+            "description": "A filament is a device that produces an electron stream to charge neutrals for analysis by mass spectrometry. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "filament",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002217",
+            "description": "A filament is a device that produces an electron stream to charge neutrals for analysis by mass spectrometry. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Karl-Fischer titrator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002220",
+            "description": "A Karl-Fischer titrator is a titrator designed for Karl-Fischer titrations. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "Karl Fischer titrator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002220",
+            "description": "A Karl-Fischer titrator is a titrator designed for Karl-Fischer titrations. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "backpressure regulator",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002221",
+            "description": "A backpressure regulator is a pressure regulator that regulates a defined pressure upstream of itself (at its own inlet). [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "nozzle",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002222",
+            "description": "A nozzle is a transferring device consisting of jet port with an opening for regulating and/or directing the flow of fluid. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "reactor jacket",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002224",
+            "description": "A reactor jacket is a jacket that controls the temperature of a reactor. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "jacket",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002226",
+            "description": "A jacket is a covering device that is placed around something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "covering device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002225",
+            "description": "A covering device is a device that has the function to cover something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "conversion device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002229",
+            "description": "A conversion device is a device that has the function to convert something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "converting device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002229",
+            "description": "A conversion device is a device that has the function to convert something. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "beamsplitter",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002236",
+            "description": "A beam splitter is an optical device that splits a beam of light in two. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "array card block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002240",
+            "description": "A array card block is a container that uses microfluidic cards to load and accept well plates. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "PCR reaction block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "PCR block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "qPCR block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "qPCR reaction block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "reaction block",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002243",
+            "description": "A PCR reaction block is a container for samples used in PCR instruments. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "probe",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002248",
+            "description": "A probe is a device designed to reach into a location for remote manipulating or sensing. [NCI]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fast protein liquid chromatograph",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002251",
+            "description": "A fast protein liquid chromatograph is an instrument used for FPLC that is a technique in analytical chemistry used to analyze or purify mixtures of proteins. A typical laboratory FPLC consist of one or two high-precision pumps, a control unit, a column, a detection system and a fraction collector. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "FPLC system",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002251",
+            "description": "A fast protein liquid chromatograph is an instrument used for FPLC that is a technique in analytical chemistry used to analyze or purify mixtures of proteins. A typical laboratory FPLC consist of one or two high-precision pumps, a control unit, a column, a detection system and a fraction collector. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "fast protein liquid chromatography system",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002251",
+            "description": "A fast protein liquid chromatograph is an instrument used for FPLC that is a technique in analytical chemistry used to analyze or purify mixtures of proteins. A typical laboratory FPLC consist of one or two high-precision pumps, a control unit, a column, a detection system and a fraction collector. [Wikipedia]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "aperture",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002252",
+            "description": "An aperture is an inhibition device that is a small opening with the function of limiting the passage of matter or energy. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sample measurement interface",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002253",
+            "description": "A sample measurement interface is a connecting device through which measurements are captured. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disintegration apparatus",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002257",
+            "description": "A disintegration apparatus is a measurement device that measures the time it takes for an object to become disintegrated. The apparatus has a disintegration device component to support the disintegration. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disintegration device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002257",
+            "description": "A disintegration apparatus is a measurement device that measures the time it takes for an object to become disintegrated. The apparatus has a disintegration device component to support the disintegration. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disintegration apparatus disc",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002258",
+            "description": "A disintegration apparatus disc is a placement device used in a disintegration apparatus to hold objects below the solution level. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "basket",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002259",
+            "description": "A basket is a container with a mesh structure used to hold solid objects. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disintegration apparatus basket",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002260",
+            "description": "A disintegration apparatus basket is a basket used in a disintegration apparatus to contain objects for disintegration. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "lens",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002261",
+            "description": "A lens is a guiding device with the function to converge or focus some radiation. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "condenser lens",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002262",
+            "description": "A condenser lens is a lens with the function to converge a radiation beam to a defined beam size. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disconnecting device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002263",
+            "description": "A disconnecting device is a device that is designed to disconnect objects. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "disintegration device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002264",
+            "description": "A disintegration device is a device that is designed to disintegrate objects. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "plate heater",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002267",
+            "description": "A plate heater is a heating device that heats by means of a plate shaped heating element. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "force gauge",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002268",
+            "description": "A force gauge is a measurement device used to measure forces. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heater bar",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002269",
+            "description": "A heater bar is a heating device that is long and thin. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "heat seal",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002270",
+            "description": "A heat seal is a coupling device that is the output of a heat sealing process. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "gripping device",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002271",
+            "description": "A gripping device is a device that takes holds of something firmly or tightly. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "dissolution vessel",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002272",
+            "description": "A dissolution vessel is a container used in a dissolution. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "nitrogen-phosphorus detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002273",
+            "description": "A nitrogen-phosphorus detector is a measurement component that measures an analyte in a gas stream through the measurement of ions via thermal heating over an alkali metal. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "NPD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002273",
+            "description": "A nitrogen-phosphorus detector is a measurement component that measures an analyte in a gas stream through the measurement of ions via thermal heating over an alkali metal. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "nitrogen chemiluminescence detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002274",
+            "description": "A nitrogen chemiluminescence detector is a measurement component that measures an analyte in a gas stream through the detection of nitrogen chemiluminescence. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "NCD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002274",
+            "description": "A nitrogen chemiluminescence detector is a measurement component that measures an analyte in a gas stream through the detection of nitrogen chemiluminescence. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "sulfur chemiluminescence detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002275",
+            "description": "A sulfur chemiluminescence detector is a measurement component that measures an analyte in a gas stream through the detection of sulfur chemiluminescence when reacting with ozone. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "SCD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002275",
+            "description": "A sulfur chemiluminescence detector is a measurement component that measures an analyte in a gas stream through the detection of sulfur chemiluminescence when reacting with ozone. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "flame photometric detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002276",
+            "description": "A flame photometric detector is a measurement component that measures an analyte in a gas stream through the detection of chemiluminescence as a result of ignition. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "FPD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002276",
+            "description": "A flame photometric detector is a measurement component that measures an analyte in a gas stream through the detection of chemiluminescence as a result of ignition. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "evaporative light scattering detector",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002277",
+            "description": "An evaporative light scattering detector is a detector that detects material by way of the measurement of the scattering of light after nebulization with an inert carrier gas and evaporation of the solvent. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "ELSD",
+            "uri": "http://purl.allotrope.org/ontologies/equipment#AFE_0002277",
+            "description": "An evaporative light scattering detector is a detector that detects material by way of the measurement of the scattering of light after nebulization with an inert carrier gas and evaporation of the solvent. [Allotrope]",
+            "type": "EquipmentClass"
+        },
+        {
+            "name": "server",
+            "uri": "http://purl.obolibrary.org/obo/NCIT_C48297",
+            "description": "A server is a computer which provides some service for other computers connected to it via a network. [NCI]",
+            "type": "EquipmentClass"
+        }
+    ]
+}
